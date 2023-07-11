@@ -15,4 +15,8 @@ Please refer to the environment.yml file for the required package versions for t
 ## References
 TEM-ImageNet-v1.3 dataset: https://github.com/xinhuolin/TEM-ImageNet-v1.3
 
+## Sample results
 
+![image](https://github.com/cnncnnzh/TEM_segmentation/assets/102392563/0a8c0cf3-2c18-47b9-b867-1d69aad627af)
+
+![image](https://github.com/cnncnnzh/TEM_segmentation/assets/102392563/b49730fc-3699-4e2b-a24f-d0a1f6e6c7d5)
