@@ -1,5 +1,4 @@
 # U-Net for Segmentation of Transmission Electron Microscopy Images
-  Group 6: Kexin Chen, Daoyuan Li, Caini Zheng
 
 ## Description
 This project utilizes the TEM-ImageNet-v1.3 dataset, which can be downloaded from the following GitHub repository: https://github.com/xinhuolin/TEM-ImageNet-v1.3. The dataset includes images and circular masks, which are used in the training process of our model.
