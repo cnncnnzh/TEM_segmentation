@@ -17,6 +17,7 @@ TEM-ImageNet-v1.3 dataset: https://github.com/xinhuolin/TEM-ImageNet-v1.3
 
 ## Sample results
 
-![image](https://github.com/cnncnnzh/TEM_segmentation/assets/102392563/0a8c0cf3-2c18-47b9-b867-1d69aad627af)
+![image](https://github.com/cnncnnzh/TEM_segmentation/assets/102392563/45fd6b83-f9d1-42e8-bd6c-93cf11666bc8)
 
-![image](https://github.com/cnncnnzh/TEM_segmentation/assets/102392563/b49730fc-3699-4e2b-a24f-d0a1f6e6c7d5)
+
+![image](https://github.com/cnncnnzh/TEM_segmentation/assets/102392563/f0056c89-7ac8-40ec-ae04-c1de96ed3ac2)
